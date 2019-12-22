@@ -4,7 +4,7 @@
 
 //서버에 전송하기 위한 초기설정
 const char* server = "api.thingspeak.com";
-String apiKey = "1FHNSZ0I4ANS0ZIC";//api key
+String apiKey = "API KEY";//api key
 const char* MY_SSID = "Open Hive";//와이파이 이름
 const char* MY_PWD = "ground21_open";//와이파이 비밀번호
 
