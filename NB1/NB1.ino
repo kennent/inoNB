@@ -3,9 +3,9 @@
 
 //서버에 전송하기 위한 초기설정
 const char* server = "api.thingspeak.com";
-String apiKey = "9LVT2RUJU7YQDQQS";//api key
-const char* MY_SSID = "Open Hive";//와이파이 이름
-const char* MY_PWD = "ground21_open";//와이파이 비밀번호
+String apiKey = "API KEY";
+const char* MY_SSID = "WIFI NAME";
+const char* MY_PWD = "WIFI PASSWD";
 
 const int DHTPin = D4;//온습도센서핀
 const float VRefer = 3.3; //전압
